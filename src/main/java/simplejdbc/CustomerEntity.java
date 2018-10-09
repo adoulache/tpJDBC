@@ -15,6 +15,7 @@ public class CustomerEntity {
 		this.addressLine1 = addressLine1;
 	}
 
+
 	/**
 	 * Get the value of customerId
 	 *
